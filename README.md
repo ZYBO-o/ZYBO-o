@@ -1,4 +1,14 @@
-### Hi there 👋
+![](images/title.JPG)
+
+---
+
++ ZYBO-o，1996，喜欢音乐，跑步，敲代码。
+
++ SEU小硕一枚，努力寻找Java乐趣中。。
+
++ **格言：**“不是因为喜欢，才认真起来；而是因为认真起来，说不定会喜欢。” ——《强风吹拂》
+
+---
 
 <!--
 **ZYBO-o/ZYBO-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
