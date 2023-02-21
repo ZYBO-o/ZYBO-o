@@ -1,5 +1,3 @@
----
-
 ![](images/title.JPG)
 
 **凡是过去，皆为序章。**
@@ -13,8 +11,6 @@
 **明智的人决不坐下来为失败而哀号，他们一定乐观地寻找办法来加以挽救。**
 
 **——莎士比亚 《暴风雨》**
-
----
 
 <!--
 **ZYBO-o/ZYBO-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
