@@ -1,6 +1,8 @@
 <center class="half"> 
     <img src="images/title.JPG" width="100%"/>
 </center>
+
+
 **凡是过去，皆为序章。**
 
 **爱所有人，信任少数人，不负任何人。**
